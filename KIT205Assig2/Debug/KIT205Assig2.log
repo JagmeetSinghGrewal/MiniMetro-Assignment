@@ -1,0 +1,31 @@
+﻿  graph.c
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(52): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(86): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(52): warning C4047: 'initializing': 'float *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(53): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(106): warning C4047: '=': 'EdgeList *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(107): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(100): warning C4047: 'initializing': 'float *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(101): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(102): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(128): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(135): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(177): warning C4047: '=': 'EdgeList *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(178): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(170): warning C4047: 'initializing': 'float *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(171): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(172): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(173): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(202): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(209): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(261): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(268): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(301): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\graph.c(307): warning C4047: 'initializing': 'EdgeNodePtr' differs in levels of indirection from 'int'
+  main.c
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\main.c(29): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  utils.c
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\utils.c(13): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jugee\desktop\github\kit205assig2base\kit205assig2\utils.c(33): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  KIT205Assig2.vcxproj -> C:\Users\jugee\Desktop\GITHUB\KIT205Assig2Base\Debug\KIT205Assig2.exe
